@@ -12,7 +12,7 @@ e teve integração com o banco de dados do MongoDB
 
 # Dependências
 
-Foi utilizado Express, Nodemon, Lottie, Axios, Cors.
+Utilizado Express, Nodemon, Lottie, Axios, Cors.
 
 ![Sem título](https://user-images.githubusercontent.com/59074122/77959622-44f46f00-72ad-11ea-9b5a-33544423f473.png)
 
